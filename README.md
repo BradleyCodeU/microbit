@@ -176,7 +176,25 @@ When finished, show your game to your teacher. Demonstrate how to win and how to
 
 ---
 
+# Running Game
 
+Imagine that the A and B buttons are actually giant buttons on the floor. The player must alternate between pressing A and then B.
+
+Create a points variable.
+
+Forever...
+
+While the player hasn't pressed A display "A"
+
+While the player has pressed A display the current points.
+
+Give the player a point
+
+While the player hasn't pressed B display "B"
+
+While the player has pressed B display the current points.
+
+Give the player a point
 
 ---
 
@@ -220,6 +238,18 @@ MAKE IT YOUR OWN: A and B buttons MUST do something, but you get to decide what 
 - A increases the speed and B decreases the speed.
 - When A and B are pressed at the same time, the sprite moves back to the center.
 - A decreases the brightness of the sprite and B increases the brightness.
+
+---
+
+# DDR Game
+
+Create a Dance Dance Revolution game with buttons for the player to press Left = Button A, Right = Button B, Down = Pin 2.
+
+Randomly display Left, Right, or Down. 
+
+Wait until the player presses that button, then randomly display another.
+
+If the player waits too long, then say game over and display the score.
 
 ---
 
