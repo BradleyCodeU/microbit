@@ -6,10 +6,12 @@ A list of open-ended MicroBit projects
 [Functions](#projects-with-functions)
 
 
+
 [For Loops](#projects-with-for-loops)
 
   - [Get Loopy](#get-loopy)
 
+[Conditionals](#projects-with-conditionals)
 
 [Variables](#projects-with-variables)
 
@@ -19,10 +21,16 @@ A list of open-ended MicroBit projects
 [While Loops](#projects-with-while-loops)
 
   - [Reaction Time Game](#reaction-time-game)
+  - [Bouncing Off The Walls](#bouncing-off-the-walls)
 
 
 
 ## Projects with Functions
+
+---
+
+
+
 
 ---
 
@@ -52,6 +60,15 @@ Reflection
 
 
 
+---
+
+## Projects with Conditionals
+
+---
+
+# Light Sensor Face
+
+Using the built-in light sensor (built into the LEDs), show a happy face if it is bright and a sad face if it is dark. Choose icons to display if A or B buttons are pressed.
 
 ---
 
@@ -121,3 +138,40 @@ In the forever loop…
 - if the game is over, start a while true loop that says either player A wins or player B wins.
 
 When finished, show your game to your teacher. Demonstrate how player A wins and how player B wins.
+
+---
+
+# Bouncing Off The Walls
+
+Create a variable and set it to be a sprite at x 2, y 2
+
+The sprite automatically moves forward and bounces off the walls at random angles.
+
+MAKE IT YOUR OWN: A and B buttons MUST do something, but you get to decide what the A and B buttons do. Ideas:
+
+- A starts/resumes the animation and B pauses the animation
+- A increases the speed and B decreases the speed.
+- When A and B are pressed at the same time, the sprite moves back to the center.
+- A decreases the brightness of the sprite and B increases the brightness.
+
+---
+
+# Gyroscope Game
+
+- Create a player sprite
+- Change the players x and y location based on the pitch and roll of the microbit
+- Divide the pitch by 60 and roll by 60 to decrease the sensitivity
+- Use a brief pause (from the Basic section) to control the pause's speed
+
+Once you have the basic player controls.....
+
+- Create an enemy sprite
+- Set the enemy sprite's "blink" setting to 100
+- Create a SECOND forever loop
+- If enemy touches player then game over
+- Either move the enemy randomly or have them move towards the player
+- Use a pause (from the Basic section) to control the enemy's speed.
+
+---
+
+
