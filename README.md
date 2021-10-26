@@ -124,7 +124,7 @@ There are multiple ways that the B button could work...
 
 # Blink Three LEDs
 
-Use the "toggle x _ , y _ " block to blink two or three different LEDs on the Microbit.
+Use the "toggle x 0 , y 0 " block to blink two or three different LEDs on the Microbit.
 
 You may want to add "pause (ms) 100" blocks between each toggle block.
 
