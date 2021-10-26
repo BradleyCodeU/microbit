@@ -11,11 +11,11 @@ A list of open-ended MicroBit projects
 
 ### Variables
 
-  - [Clicker Game]()
+  - [Clicker Game](#clicker-game)
 
 ### While Loops
 
-  - [Reaction Time Game]()
+  - [Reaction Time Game](#reaction-time-game)
 
 
 
@@ -25,7 +25,7 @@ A list of open-ended MicroBit projects
 
 ## Projects with Variables
 
-### Clicker Game
+# Clicker Game
 
 Create a timer variable and set it to 5 (or 9).
 
@@ -39,7 +39,7 @@ When the timer is zero or less, say who wins... either player A or player B.
 
 ## Projects with While Loops
 
-### Reaction Time Game
+# Reaction Time Game
 
 The project uses while loops and or not
 
