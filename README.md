@@ -31,7 +31,9 @@ A list of open-ended MicroBit projects
   - [DDR Game](#ddr-game)
   - [Gyroscope Game](#gyroscope-game)
 
+[Projects with Servo Motors](#projects-with-servo-motors)
 
+[Projects in MicroPython](#projects-in-micropython)
 
 
 ---
@@ -71,9 +73,13 @@ Reflection
 
 Use for loops to adjust an LED from 0 (off) to 255 (full).
 
-Gradually fade the LEDs from 0 up to 255, then down to 0, then up to 255, then down to 0, then up to 255, etc
+Inside of the "on button A pressed" block, add a "for index in 0 to 4" loop. From the LED menu, click More and get a "plot x 0 y 0 brightness 255" block. Use the index variable to gradually fade the LED brightness from 0 up to 255.
 
 Include a "pause (ms) 100" block within the for loop to slow down the fade. Use a very small pause like 10.
+
+On button B pressed, gradually fade the brightness from 255 down to 0.
+
+On button A+B pressed... MAKE IT YOUR OWN. Maybe set a random LED to a random brightness? Maybe set all LEDs to either 255 or 0?
 
 ---
 
@@ -298,4 +304,62 @@ Once you have the basic player controls.....
 
 ---
 
+## Projects with Servo Motors
 
+---
+
+# Robot Arm
+
+Control a standard 9-gram servo with the A and B buttons.
+
+---
+
+# Droid
+
+Combine the light sensor face, create a song, and servo arm projects to create a droid that "talks" and moves it's arms when the light level changes.
+
+---
+
+# RC Car
+
+Connect your microbit to 2 continuous rotation servos.
+
+Use bluetooth to control the microbit's servos from iPad, iPhone, etc.
+
+---
+
+## Projects in MicroPython
+
+---
+
+# MicroPython Speak
+
+Add a speaker. Use the MicroPython editor.
+
+Make your Microbit speak.
+
+http://microbit-micropython.readthedocs.io/en/latest/tutorials/speech.html#say-something (ignore the diagram that shows the wrong way to connect a speaker) Note: You can't just turn in one of the examples from that site.
+
+---
+
+# MicroPython Sing
+
+Attach a speaker. Use the MicroPython code editor.
+
+Make your MicroBit sing.
+
+http://microbit-micropython.readthedocs.io/en/latest/tutorials/speech.html#sing-a-song-of-micro-bit Note: You can't turn in an example from that website.
+
+---
+
+# MicroPython Neopixels
+
+Use the MicroPython editor.
+
+Connect a NeoPixel.
+
+Each time you press the A button, the NeoPixel switches to a random color.
+
+http://microbit-micropython.readthedocs.io/en/latest/neopixel.html
+
+---
