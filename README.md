@@ -79,7 +79,7 @@ Include a "pause (ms) 100" block within the for loop to slow down the fade. Use 
 
 On button B pressed, gradually fade the brightness from 255 down to 0.
 
-On button A+B pressed... MAKE IT YOUR OWN. Maybe set a random LED to a random brightness? Maybe set all LEDs to either 255 or 0?
+On button A+B pressed... MAKE IT YOUR OWN. Maybe set one random LED to a random brightness? Maybe set all LEDs to either 255 or 0? Maybe loop 255 times setting a random LED to a random brightness? Maybe clear the screen?
 
 ---
 
