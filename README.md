@@ -3,29 +3,36 @@
 A list of open-ended MicroBit projects
 
 
-[Functions](#projects-with-functions)
-
-
-
 [For Loops](#projects-with-for-loops)
 
   - [Get Loopy](#get-loopy)
+  - [Fade One LED](#fade-one-led)
 
 [Conditionals](#projects-with-conditionals)
+  
+  - [Light Sensor Face](#light-sensor-face)
+  - [Make A Song](#make-a-song)
+  - [Musical Instrument](#musical-instrument)
+  - [Blink Three LEDs](#blink-three-leds)
 
 [Variables](#projects-with-variables)
 
+  - [Hot Potato](#clicker-game)
   - [Clicker Game](#clicker-game)
+  - [Fade Two LEDs](#fade-two-leds)
   - [Weird Blackjack](#weird-blackjack)
+  - [Variable Flashlight](#variable-flashlight)
 
 [While Loops](#projects-with-while-loops)
 
+  - [Running Game](#running-game)
   - [Reaction Time Game](#reaction-time-game)
   - [Bouncing Off The Walls](#bouncing-off-the-walls)
+  - [DDR Game](#ddr-game)
+  - [Gyroscope Game](#gyroscope-game)
 
 
 
-## Projects with Functions
 
 ---
 
@@ -109,7 +116,7 @@ There are multiple ways that the B button could work...
 
 ---
 
-# Blink 3 LEDs
+# Blink Three LEDs
 
 Use the "toggle x _ , y _ " block to blink two or three different LEDs on the Microbit.
 
