@@ -140,6 +140,14 @@ When button A+B is pressed... MAKE IT YOUR OWN! Make up your own pattern.
 
 Players pass the Microbit from one to another. Every 5-20 seconds (at random), the Micro:bit should change image, play a sad sound, and that player is out. The game then continues until there is only one player left.
 
+Start by asking "How Many Players?"
+
+Use A and B buttons to increase decrease the number of player.
+
+Press A+B to start the game. 
+
+Use a for loop to repeat for the correct number of rounds.
+
 ---
 
 # Clicker Game
