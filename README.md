@@ -3,17 +3,18 @@
 A list of open-ended MicroBit projects
 
 
-### Functions
+#### Functions
 
 
-### For Loops
+#### For Loops
 
 
-### Variables
+#### Variables
 
   - [Clicker Game](#clicker-game)
+  - [Weird Blackjack](#weird-blackjack)
 
-### While Loops
+#### While Loops
 
   - [Reaction Time Game](#reaction-time-game)
 
@@ -21,9 +22,40 @@ A list of open-ended MicroBit projects
 
 ## Projects with Functions
 
+---
+
 ## Projects with For Loops
 
+---
+
+# Get Loopy
+
+There are many different ways to use loop blocks. The three types of loop blocks in Microbit are Repeat X Times, While, and For Loop.
+
+How will you use loops to create something useful, entertaining, or interesting? Here are some suggestions:
+
+- Create different animations that loop when different buttons are pressed.
+- Create an animated gif (looping image that changes) and add music that matches.
+- Create animation that repeats for one of the melodies included in the Music section (like Happy Birthday).
+- Create an alarm that includes sound and looping images. What will set the alarm off? What will make the alarm stop sounding?
+
+Reflection
+
+1.  Explain how you decided on your particular “loopy” idea. What brainstorming ideas did you come up with?
+1.  What types of loops did you use? (Repeat X Times, While, or For Loop)
+1.  What was something that was surprising to you about the process of creating this program?
+1.  Describe a difficult point in the process of designing this program, and explain how you resolved it.
+1.  Share your project with someone and ask what they liked and what could be improved. What feedback did your "beta testers" give you? How did that help you improve your loop demo?
+
+
+
+
+
+---
+
 ## Projects with Variables
+
+---
 
 # Clicker Game
 
@@ -59,6 +91,8 @@ When finished, show your game to your teacher. Demonstrate how to win and how to
 ---
 
 ## Projects with While Loops
+
+---
 
 # Reaction Time Game
 
