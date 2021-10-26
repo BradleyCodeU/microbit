@@ -8,6 +8,8 @@ A list of open-ended MicroBit projects
 
 [For Loops](#projects-with-for-loops)
 
+  - [Get Loopy](#get-loopy)
+
 
 [Variables](#projects-with-variables)
 
