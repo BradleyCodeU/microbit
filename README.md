@@ -27,15 +27,36 @@ A list of open-ended MicroBit projects
 
 # Clicker Game
 
-Create a timer variable and set it to 5 (or 9).
+Player A will be clicking the A button as quickly as possible. Player B will be clicking B button as quickly as possible. Highest score wins.
 
-Create a score variable (or two) and set it to 0.
+1.  Create a timer variable and set it to 5 (or 9).
 
-Countdown from 5 to 0, displaying the timer on the "screen"
+1.  Create a score variable (or two) and set it to 0.
 
-When button A is pressed player A gets points. When button B is pressed player B gets points. MAKE IT YOUR OWN: Increase the amount of points over time. Maybe each click doubles your score? Maybe the timer changes your score so that clicks when the timer begins are worth less points and and clicks when the timer is low are worth more points? Maybe the losing player earns a bonus point for each click?
+1.  Countdown from 5 to 0, displaying the timer on the "screen"
 
-When the timer is zero or less, say who wins... either player A or player B.
+1.  When button A is pressed player A gets points. When button B is pressed player B gets points. MAKE IT YOUR OWN: Increase the amount of points over time. Maybe each click doubles your score? Maybe the timer changes your score so that clicks when the timer begins are worth less points and and clicks when the timer is low are worth more points? Maybe the losing player earns a bonus point for each click?
+
+1.  When the timer is zero or less, say who wins... either player A or player B.
+
+---
+
+# Weird Blackjack
+
+MSCoding Weird Blackjack (variables)
+
+Blackjack is a multi-player card game also known as “21” in which you are trying to get close to a total of 21 points without going over.
+Weird Blackjack is a single player game that you will make for Microbit. Everyone’s game will be unique.
+
+1.  You will need a variable to store the player’s score which could start at 1 or some random number (your choice).
+1.  If the player presses the A button it increases the player’s score (either adds a random amount to their score or it multiplies their score, your choice). 
+1.  If the player presses the B button it decreases the player’s score (either subtracts a random amount from their score or it divides their score, your choice).
+1.  If the player score ever equals 21, then play a happy sound/melody and say “WIN”
+1.  MAKE IT YOUR OWN: Decide how the player loses. If the player loses, play a sad sound/melody and say “LOSE.” It’s your choice how the player loses. Maybe if the player has pressed the B button too many times? Maybe if the score is ever greater than 42? Maybe if the score is ever less than 1? Maybe if the timer runs out? You might need to add another variable to track something.
+
+When finished, show your game to your teacher. Demonstrate how to win and how to lose.
+
+---
 
 ## Projects with While Loops
 
