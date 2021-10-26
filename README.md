@@ -3,18 +3,18 @@
 A list of open-ended MicroBit projects
 
 
-#### Functions
+[Functions](#projects-with-functions)
 
 
-#### For Loops
+[For Loops](#projects-with-for-loops)
 
 
-#### Variables
+[Variables](#projects-with-variables)
 
   - [Clicker Game](#clicker-game)
   - [Weird Blackjack](#weird-blackjack)
 
-#### While Loops
+[While Loops](#projects-with-while-loops)
 
   - [Reaction Time Game](#reaction-time-game)
 
