@@ -129,6 +129,12 @@ When button A+B is pressed... MAKE IT YOUR OWN! Make up your own pattern.
 
 ---
 
+# Hot Potato 
+
+Players pass the Microbit from one to another. Every 5-20 seconds (at random), the Micro:bit should change image, play a sad sound, and that player is out. The game then continues until there is only one player left.
+
+---
+
 # Clicker Game
 
 Player A will be clicking the A button as quickly as possible. Player B will be clicking B button as quickly as possible. Highest score wins.
@@ -169,6 +175,12 @@ Weird Blackjack is a single player game that you will make for Microbit. Everyon
 1.  MAKE IT YOUR OWN: Decide how the player loses. If the player loses, play a sad sound/melody and say “LOSE.” It’s your choice how the player loses. Maybe if the player has pressed the B button too many times? Maybe if the score is ever greater than 42? Maybe if the score is ever less than 1? Maybe if the timer runs out? You might need to add another variable to track something.
 
 When finished, show your game to your teacher. Demonstrate how to win and how to lose.
+
+---
+
+# Variable Flashlight
+
+Make a variable brightness flashlight. Either pushing the buttons or tilting the Micro:bit forward and back should make make the LEDs come on brighter or dimmer. Must have a control to make it brighter and a different control to make it less bright.
 
 ---
 
