@@ -58,7 +58,15 @@ Reflection
 1.  Share your project with someone and ask what they liked and what could be improved. What feedback did your "beta testers" give you? How did that help you improve your loop demo?
 
 
+---
 
+# Fade One LED
+
+Use for loops to adjust an LED from 0 (off) to 255 (full).
+
+Gradually fade the LEDs from 0 up to 255, then down to 0, then up to 255, then down to 0, then up to 255, etc
+
+Include a "pause (ms) 100" block within the for loop to slow down the fade. Use a very small pause like 10.
 
 ---
 
@@ -69,6 +77,51 @@ Reflection
 # Light Sensor Face
 
 Using the built-in light sensor (built into the LEDs), show a happy face if it is bright and a sad face if it is dark. Choose icons to display if A or B buttons are pressed.
+
+---
+
+# Make A Song
+
+Attach a speaker.
+
+Create a variable and set it to false
+
+In the forever loop, write code that plays your sounds (8 or more notes) if a variable is set to true
+
+When the A button is pressed, set the variable to true
+
+When the B button is pressed, set the variable to false
+
+---
+
+# Musical Instrument
+
+Create a musical instrument. Attach a speaker.
+
+When the A button is pressed, play a Low A note.
+
+When the B button is pressed, loop through these notes: C, D, E, G, A
+
+There are multiple ways that the B button could work...
+
+- The B button could randomly play either C, D, E, G, A
+- The B button could play C on the 1st press, then D on the 2nd press, etc.
+
+---
+
+# Blink 3 LEDs
+
+Use the "toggle x _ , y _ " block to blink two or three different LEDs on the Microbit.
+
+You may want to add "pause (ms) 100" blocks between each toggle block.
+
+Your first LED might be x: 1 and y: 1. Your second and third LEDs should have different coordinates.
+
+When A is held down blink two LEDs in a pattern like this 1-2-1-2-1-2-1-2
+
+When B is held down blink three LEDs in a pattern like this 1-2-3-1-2-3-1-2-3
+
+When button A+B is pressed... MAKE IT YOUR OWN! Make up your own pattern.
 
 ---
 
@@ -92,6 +145,16 @@ Player A will be clicking the A button as quickly as possible. Player B will be 
 
 ---
 
+# Fade Two LEDs
+
+You will use a variable and loops to adjust the LED from 0 (off) to 255 (full).
+
+Gradually fade the LEDs from 0 up to 255, then down to 0, then up to 255, then down to 0, then up to 255, etc
+
+The 2 LEDs should be out of sync with each other so that one is at 0 while the other is at 255.
+
+---
+
 # Weird Blackjack
 
 MSCoding Weird Blackjack (variables)
@@ -110,6 +173,10 @@ When finished, show your game to your teacher. Demonstrate how to win and how to
 ---
 
 ## Projects with While Loops
+
+---
+
+
 
 ---
 
