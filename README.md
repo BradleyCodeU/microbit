@@ -226,17 +226,17 @@ Create a points variable.
 
 Forever...
 
-While the player hasn't pressed A display "A"
+- While the player hasn't pressed A, display "A"
 
-While the player has pressed A display the current points.
+- While the player has pressed A, display the current points.
 
-Give the player a point
+- Give the player a point
 
-While the player hasn't pressed B display "B"
+- While the player hasn't pressed B, display "B"
 
-While the player has pressed B display the current points.
+- While the player has pressed B, display the current points.
 
-Give the player a point
+- Give the player a point
 
 ---
 
