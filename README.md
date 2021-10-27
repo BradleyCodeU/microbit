@@ -166,7 +166,7 @@ Player A will be clicking the A button as quickly as possible. Player B will be 
 
 1.  Countdown from 5 to 0, displaying the timer on the "screen"
 
-1.  When button A is pressed player A gets points. When button B is pressed player B gets points. MAKE IT YOUR OWN: Increase the amount of points over time. Maybe each click doubles your score? Maybe the timer changes your score so that clicks when the timer begins are worth less points and and clicks when the timer is low are worth more points? Maybe the losing player earns a bonus point for each click?
+1.  When button A is pressed player A gets points. When button B is pressed player B gets points. MAKE IT YOUR OWN: Increase the amount of points over time. Maybe each click doubles your score? Maybe the timer changes your score so that clicks when the timer begins are worth fewer points and then clicks when the timer is low are worth more points? Maybe the player with fewer points earns a bonus point for each click?
 
 1.  When the timer is zero or less, say who wins... either player A or player B.
 
