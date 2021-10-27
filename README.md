@@ -89,7 +89,16 @@ On button A+B pressed... MAKE IT YOUR OWN. Maybe set one random LED to a random 
 
 # Light Sensor Face
 
-Using the built-in light sensor (built into the LEDs), show a happy face if it is bright and a sad face if it is dark. Choose icons to display if A or B buttons are pressed.
+This project will use the built-in light sensor (built into the LEDs). On button A press, show a happy face if it is bright and a sad face if it is dark. 
+
+Now, let's make a fidget cube out of the micro:bit. MAKE IT YOUR OWN: Create a unique output for each of the following inputs:
+
+- on button B pressed
+- on button A+B pressed
+- on pin P0 pressed
+- on pin P1 pressed
+- on pin P2 pressed
+- on shake
 
 ---
 
