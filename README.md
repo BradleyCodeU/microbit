@@ -7,6 +7,7 @@ A list of open-ended MicroBit projects
 
   - [Get Loopy](#get-loopy)
   - [Fade One LED](#fade-one-led)
+  - [Travelling Sprite](#travelling-sprite)
 
 [Conditionals](#projects-with-conditionals)
   
@@ -80,6 +81,32 @@ Include a "pause (ms) 100" block within the for loop to slow down the fade. Use 
 On button B pressed, gradually fade the brightness from 255 down to 0.
 
 On button A+B pressed... MAKE IT YOUR OWN. Maybe set one random LED to a random brightness? Maybe set all LEDs to either 255 or 0? Maybe loop 255 times setting a random LED to a random brightness? Maybe clear the screen?
+
+---
+
+# Travelling Sprite
+
+Drag the repeat block to the coding Workspace. Notice that this block takes a parameter. A parameter is a type of variable used as input to a function or routine. In this case, the parameter tells the repeat block how many times we want the code within the block to repeat. For now, we’ll leave the parameter at 4.
+
+For this project, you can delete the default ‘forever’ block.
+
+To create a sprite that will walk around the Microbit matrix:
+
+- Click on the Advanced category in the Toolbox. This will open up a more advanced menu of blocks.
+- Click on Game category, and drag a ‘create sprite’ block to the coding workspace.
+- We’ll need two more blocks from the Game menu.
+  - Drag out a ‘move by’ block and a ‘turn right by’ block. They now have these blocks in their coding workspace.
+- From the Variables menu, drage a 'set sprite to 0' block to the coding workspace.
+
+Next, let's start combining the blocks. On Start, set sprite to create sprite at x 2 y 2.
+
+From the Input menu, drag out a 'on button A pressed' block. Also, get a 'on button B pressed' block and get a 'on pin P2 pressed' block.
+
+Decide which button moves the sprite forward. Use the "repeat 4 times" block to move the sprite forward. 
+
+MAKE IT YOUR OWN: Which button should turn the sprite? Can the sprite turn in the opposite direction? Can the sprite move backwards?
+
+When finished, show your teacher which commands you have mapped to which buttons.
 
 ---
 
