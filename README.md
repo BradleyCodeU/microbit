@@ -164,6 +164,8 @@ There are multiple ways that the B button could work...
 - The B button could randomly play either C, D, E, G, A
 - The B button could play C on the 1st press, then D on the 2nd press, etc.
 
+MAKE IT YOUR OWN: Decide what happens on pin P0 pressed, on pin P1 pressed, and on pin P2 pressed.
+
 ---
 
 # Blink Three LEDs
