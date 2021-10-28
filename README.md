@@ -34,7 +34,15 @@ A list of open-ended MicroBit projects
 
 [Projects with Servo Motors](#projects-with-servo-motors)
 
+  - [Robot Arm](#robot-arm)
+  - [Droid](#droid)
+  - [RC Car](#rc-car)
+
 [Projects in MicroPython](#projects-in-micropython)
+
+  - [MicroPython Speak](#micropython-speak)
+  - [MicroPython Sing](#micropython-sing)
+  - [MicroPython Neopixels](#micropython-neopixels)
 
 
 ---
