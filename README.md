@@ -1,6 +1,6 @@
 # microbit projects
 
-A list of open-ended MicroBit projects
+A list of open-ended MicroBit projects. Some sources include [bournetocode.com](https://bournetocode.com/projects/7-CS-micro/index.html) and [MakeCode Intro to CS](https://makecode.microbit.org/courses/csintro)
 
 
 [For Loops](#projects-with-for-loops)
