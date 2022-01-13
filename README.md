@@ -58,6 +58,12 @@ A list of open-ended MicroBit projects. Some sources include [bournetocode.com](
 
 # Get Loopy
 
+Start by adding a "on button A pressed" block from the Input menu.
+
+Next, add a "show icon" block from the Basic menu.
+
+Next... get loopy!
+
 There are many different ways to use loop blocks. The three types of loop blocks in Microbit are Repeat X Times, While, and For Loop.
 
 How will you use loops to create something useful, entertaining, or interesting? Here are some suggestions:
