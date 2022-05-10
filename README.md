@@ -6,6 +6,7 @@ A list of open-ended MicroBit projects. Some sources include [bournetocode.com](
 [For Loops](#projects-with-for-loops)
 
   - [Get Loopy](#get-loopy)
+  - [Turn Signal](#turn-signal)
   - [Fade One LED](#fade-one-led)
   - [Travelling Sprite](#travelling-sprite)
 
@@ -81,7 +82,16 @@ Reflection
 1.  Describe a difficult point in the process of designing this program, and explain how you resolved it.
 1.  Share your project with someone and ask what they liked and what could be improved. What feedback did your "beta testers" give you? How did that help you improve your loop demo?
 
+---
+# Turn Signal
 
+Use for loops to make blinking lights.
+
+On button A pressed, a left arrow should blink on and off 3 times. Use a "pause (ms) 100" block within the for loop to slow down the blinking.
+
+On button B pressed, a right arrow should blink on and off 3 times.
+
+On button A+B pressed... MAKE IT YOUR OWN. Maybe blink between two different patterns or faces? Maybe spell out a word one letter at a time?
 ---
 
 # Fade One LED
