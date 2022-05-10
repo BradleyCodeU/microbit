@@ -110,7 +110,7 @@ To create a sprite that will walk around the Microbit matrix:
 - Click on Game category, and drag a ‘create sprite’ block to the coding workspace.
 - We’ll need two more blocks from the Game menu.
   - Drag out a ‘move by’ block and a ‘turn right by’ block. They now have these blocks in their coding workspace.
-- From the Variables menu, drage a 'set sprite to 0' block to the coding workspace.
+- From the Variables menu, drag a 'set sprite to 0' block to the coding workspace.
 
 Next, let's start combining the blocks. On Start, set sprite to create sprite at x 2 y 2.
 
@@ -130,7 +130,7 @@ When finished, show your teacher which commands you have mapped to which buttons
 
 # Light Sensor Face
 
-This project will use the built-in light sensor (built into the LEDs). On button A press, show a happy face if it is bright and a sad face if it is dark. 
+This project will use the built-in light sensor (built into the LEDs). The "light level" variable can be found in the Input menu. On button A press, show a happy face if it is bright and a sad face if it is dark. 
 
 Now, let's make a fidget cube out of the micro:bit. MAKE IT YOUR OWN: Create a unique output for each of the following inputs:
 
